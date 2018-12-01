@@ -15,8 +15,10 @@
                     console.log("Carregando");
                 }
                 if (ajax.readyState == 4) {
-                    console.log("Carregado...");
+                    console.log(ajax.responseText);
                 }
+            }else{
+                console.log("Erro na operacao");
             }
         }
     </script>
