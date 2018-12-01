@@ -22,7 +22,11 @@
                     console.log("Carregando");
                 }
                 if (ajax.readyState == 4) {
-                    console.log(ajax.responseText);
+                    var elemento = document.getElementById('dinamico');
+                    elemento.innerHTML = ajax.responseText;
+
+                    var titulo = document.getElementsByTagName('h1');
+                    titulo[0].innerHTML = ajax.responseText;
                 }
             }else{
                 console.log("Erro na operacao");
@@ -32,6 +36,9 @@
 </head>
 
 <body>
+<div id="dinamico">
+
+</div>
 <h1></h1>
 </body>
 </html>
