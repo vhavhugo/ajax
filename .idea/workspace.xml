@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f5e89eb-998a-458c-a121-2de072d8a0c9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unidade_06/gerar_json.php" afterPath="$PROJECT_DIR$/unidade_06/gerar_json.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unidade_06/listagem.php" afterPath="$PROJECT_DIR$/unidade_06/listagem.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,17 +13,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="listagem.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="listagem.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/unidade_06/listagem.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="338">
+              <caret line="27" column="93" lean-forward="false" selection-start-line="27" selection-start-column="93" selection-end-line="27" selection-end-column="93" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gerar_json.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gerar_json.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unidade_06/gerar_json.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -54,6 +54,7 @@
         <option value="$PROJECT_DIR$/unidade_05/_json/produtos.json" />
         <option value="$PROJECT_DIR$/unidade_05/exercicio.php" />
         <option value="$PROJECT_DIR$/unidade_06/gerar_json.php" />
+        <option value="$PROJECT_DIR$/unidade_06/listagem.php" />
       </list>
     </option>
   </component>
@@ -135,12 +136,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543674807156</updated>
-      <workItem from="1543674808454" duration="15261000" />
+      <workItem from="1543674808454" duration="15577000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15261000" />
+    <option name="totallyTimeSpent" value="15577000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="683" y="0" width="683" height="718" extended-state="4" />
@@ -336,14 +337,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/unidade_06/listagem.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/unidade_06/gerar_json.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -351,6 +344,14 @@
           <folding>
             <marker date="1543700137263" expanded="true" signature="227:289" ph="SELECT nomep... produtos" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unidade_06/listagem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="27" column="93" lean-forward="false" selection-start-line="27" selection-start-column="93" selection-end-line="27" selection-end-column="93" />
+          <folding />
         </state>
       </provider>
     </entry>
