@@ -4,7 +4,14 @@
     <meta charset="UTF-8">
     <title>Solicitacao</title>
     <script>
-        var ajax = new XMLHttpRequest();
+        var ajax;
+        if(window.XMLHttpRequest){
+            ajax = new XMLHttpRequest();
+        }else{
+            ajax = new ActiveXObject("Microsoft.XMLHTTP");
+        }
+
+
         //false = sincrona
         //true = assincrona
         ajax.open('GET', 'dados.txt', true);
