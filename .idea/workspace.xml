@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f5e89eb-998a-458c-a121-2de072d8a0c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/unidade_04/_css/estilo.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unidade_04/_css/estilo.css" afterPath="$PROJECT_DIR$/unidade_04/_css/estilo.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unidade_04/exercicio.php" afterPath="$PROJECT_DIR$/unidade_04/exercicio.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,21 +37,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exercicio.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="exercicio.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unidade_04/exercicio.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="64" lean-forward="false" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+            <state relative-caret-position="249">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="estilo.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="estilo.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/unidade_04/_css/estilo.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+            <state relative-caret-position="90">
+              <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -72,8 +71,8 @@
         <option value="$PROJECT_DIR$/unidade_03/nome.php" />
         <option value="$PROJECT_DIR$/unidade_03/exercicio_02.php" />
         <option value="$PROJECT_DIR$/unidade_03/exercicio_03.php" />
-        <option value="$PROJECT_DIR$/unidade_04/_css/estilo.css" />
         <option value="$PROJECT_DIR$/unidade_04/exercicio.php" />
+        <option value="$PROJECT_DIR$/unidade_04/_css/estilo.css" />
       </list>
     </option>
   </component>
@@ -172,12 +171,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543674807156</updated>
-      <workItem from="1543674808454" duration="10497000" />
+      <workItem from="1543674808454" duration="11245000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10497000" />
+    <option name="totallyTimeSpent" value="11245000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="683" y="0" width="683" height="718" extended-state="4" />
@@ -306,18 +305,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/unidade_04/_css/estilo.css">
+    <entry file="file://$PROJECT_DIR$/unidade_04/exercicio.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        <state relative-caret-position="249">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/unidade_04/exercicio.php">
+    <entry file="file://$PROJECT_DIR$/unidade_04/_css/estilo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="64" lean-forward="false" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+        <state relative-caret-position="90">
+          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
           <folding />
         </state>
       </provider>
