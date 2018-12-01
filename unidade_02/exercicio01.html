@@ -1,19 +1,28 @@
 <!doctype html>
 <html>
-    <head>
-        <meta charset="UTF-8">
-        <title>Solicitacao</title>
-<script>
-    var ajax = new XMLHttpRequest();
-    //false = sincrona
-    //true = assincrona
-    ajax.open('GET','dados.txt', false);
-    ajax.send();
-    console.log(ajax);
-</script>
-    </head>
+<head>
+    <meta charset="UTF-8">
+    <title>Solicitacao</title>
+    <script>
+        var ajax = new XMLHttpRequest();
+        //false = sincrona
+        //true = assincrona
+        ajax.open('GET', 'dados.txt', true);
+        ajax.send();
+        ajax.onreadystatechange = function () {
+            if (ajax.status == 200) {
+                if (ajax.readyState == 3) {
+                    console.log("Carregando");
+                }
+                if (ajax.readyState == 4) {
+                    console.log("Carregado...");
+                }
+            }
+        }
+    </script>
+</head>
 
-    <body>
-        <h1></h1>
-    </body>
+<body>
+<h1></h1>
+</body>
 </html>
