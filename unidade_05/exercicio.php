@@ -10,9 +10,16 @@
         <script src="jquery.js"></script>
         <script>
             $.getJSON('_json/produtos.json', function(data){
+                var elemento;
+
+                elemento = "<ul>";
                 $.each(data, function(i,valor){
-                    console.log(valor.nomeproduto);
-                })
+                    elemento += "<li>" + valor.nomeproduto + "</li>";
+                    elemento += "<li>" + valor.precounitario + "</li>";
+                });
+                elemento += "</ul>";
+
+                $('div#listagem').html(elemento);
             });
         </script>
     </body>
