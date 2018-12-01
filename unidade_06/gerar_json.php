@@ -1,4 +1,7 @@
 <?php
+
+//configurações gerais
+header('Access-Control-Allow-Origin: *');
 /**
  * Created by PhpStorm.
  * User: hugo
