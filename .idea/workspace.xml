@@ -39,8 +39,18 @@
       <file leaf-file-name="exercicio.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/unidade_05/exercicio.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="60" lean-forward="false" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+            <state relative-caret-position="360">
+              <caret line="24" column="53" lean-forward="false" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="estilo.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unidade_05/_css/estilo.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -117,6 +127,12 @@
               <item name="ajax" type="b2602c69:ProjectViewProjectNode" />
               <item name="ajax" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="unidade_05" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="ajax" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ajax" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="unidade_05" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="_json" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -156,12 +172,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543674807156</updated>
-      <workItem from="1543674808454" duration="12880000" />
+      <workItem from="1543674808454" duration="13734000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12880000" />
+    <option name="totallyTimeSpent" value="13734000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="683" y="0" width="683" height="718" extended-state="4" />
@@ -333,10 +349,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/unidade_05/_css/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/unidade_05/exercicio.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="60" lean-forward="false" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        <state relative-caret-position="360">
+          <caret line="24" column="53" lean-forward="false" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
           <folding />
         </state>
       </provider>
