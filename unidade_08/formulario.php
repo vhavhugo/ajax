@@ -1,6 +1,6 @@
 <?php
     // Criar objeto de conexao
-    $conecta = mysqli_connect("localhost","root","","andes");
+    $conecta = mysqli_connect("localhost","root","root","andes");
     if ( mysqli_connect_errno()  ) {
         die("Conexao falhou: " . mysqli_connect_errno());
     }
@@ -61,6 +61,11 @@
         
         <script src="jquery.js"></script>
         <script>
+            $('#formulario_transportadora').submit(function(e){
+               e.preventDefault();
+               var formulario = $(this);
+               alert(formulario.serialize());
+            });
         </script>
     </body>
 </html>
