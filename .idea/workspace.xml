@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f5e89eb-998a-458c-a121-2de072d8a0c9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unidade_08/formulario.php" afterPath="$PROJECT_DIR$/unidade_08/formulario.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unidade_08/inserir_transportadora.php" afterPath="$PROJECT_DIR$/unidade_08/inserir_transportadora.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +17,8 @@
       <file leaf-file-name="formulario.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/unidade_08/formulario.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="66" column="43" lean-forward="false" selection-start-line="66" selection-start-column="43" selection-end-line="66" selection-end-column="43" />
+            <state relative-caret-position="299">
+              <caret line="73" column="45" lean-forward="true" selection-start-line="73" selection-start-column="45" selection-end-line="73" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -27,10 +27,10 @@
       <file leaf-file-name="inserir_transportadora.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/unidade_08/inserir_transportadora.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="315">
+              <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
               <folding>
-                <marker date="1427886406000" expanded="true" signature="464:491" ph="INSERT INTO transportadoras... " />
+                <marker date="1543708506085" expanded="true" signature="468:495" ph="INSERT INTO transportadoras... " />
               </folding>
             </state>
           </provider>
@@ -68,6 +68,7 @@
         <option value="$PROJECT_DIR$/unidade_06/listagem.php" />
         <option value="$PROJECT_DIR$/unidade_07/gerar_json.php" />
         <option value="$PROJECT_DIR$/unidade_07/listagem.php" />
+        <option value="$PROJECT_DIR$/unidade_08/inserir_transportadora.php" />
         <option value="$PROJECT_DIR$/unidade_08/formulario.php" />
       </list>
     </option>
@@ -146,12 +147,12 @@
       <option name="presentableId" value="Default" />
       <updated>1543674807156</updated>
       <workItem from="1543674808454" duration="16453000" />
-      <workItem from="1543707684135" duration="402000" />
+      <workItem from="1543707684135" duration="920000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16855000" />
+    <option name="totallyTimeSpent" value="17373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="683" y="0" width="683" height="718" extended-state="4" />
@@ -378,16 +379,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/unidade_08/inserir_transportadora.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1427886406000" expanded="true" signature="464:491" ph="INSERT INTO transportadoras... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/unidade_08/_css/estilo.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -396,10 +387,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/unidade_08/inserir_transportadora.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+          <folding>
+            <marker date="1543708506085" expanded="true" signature="468:495" ph="INSERT INTO transportadoras... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/unidade_08/formulario.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="66" column="43" lean-forward="false" selection-start-line="66" selection-start-column="43" selection-end-line="66" selection-end-column="43" />
+        <state relative-caret-position="299">
+          <caret line="73" column="45" lean-forward="true" selection-start-line="73" selection-start-column="45" selection-end-line="73" selection-end-column="45" />
           <folding />
         </state>
       </provider>
