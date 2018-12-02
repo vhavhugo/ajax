@@ -1,6 +1,6 @@
 <?php
     // Criar objeto de conexao
-    $conecta = mysqli_connect("localhost","root","","andes");
+    $conecta = mysqli_connect("localhost","root","root","andes");
     if ( mysqli_connect_errno()  ) {
         die("Conexao falhou: " . mysqli_connect_errno());
     }
@@ -43,6 +43,10 @@
         
         <script src="jquery.js"></script>
         <script>
+            $('#janela_transportadoras ul li a.excluir').click(function(e){
+                e.preventDefault();
+                $(this).parent().parent().fadeOut();
+            })
         </script>
     </body>
 </html>

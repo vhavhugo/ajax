@@ -101,7 +101,7 @@
                    data: dados.serialize(),
                    url:"alterar_transportadora.php",
                    async:false
-                    
+
                 }).done(function(data){
                     $sucesso = $.parseJSON(data)["sucesso"];
                     $mensagem = $.parseJSON(data)["mensagem"];
