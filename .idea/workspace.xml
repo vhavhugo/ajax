@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f5e89eb-998a-458c-a121-2de072d8a0c9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unidade_09/formulario.php" afterPath="$PROJECT_DIR$/unidade_09/formulario.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unidade_10/exclusao.php" afterPath="$PROJECT_DIR$/unidade_10/exclusao.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unidade_10/listagem.php" afterPath="$PROJECT_DIR$/unidade_10/listagem.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,10 +28,10 @@
       <file leaf-file-name="listagem.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/unidade_10/listagem.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="47" column="50" lean-forward="false" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
+            <state relative-caret-position="414">
+              <caret line="62" column="46" lean-forward="true" selection-start-line="62" selection-start-column="46" selection-end-line="62" selection-end-column="46" />
               <folding>
-                <marker date="1543711577905" expanded="true" signature="249:278" ph="SELECT * FRO... transportadoras" />
+                <marker date="1543712341608" expanded="true" signature="249:278" ph="SELECT * FRO... transportadoras" />
               </folding>
             </state>
           </provider>
@@ -149,12 +147,12 @@
       <option name="presentableId" value="Default" />
       <updated>1543674807156</updated>
       <workItem from="1543674808454" duration="16453000" />
-      <workItem from="1543707684135" duration="3803000" />
+      <workItem from="1543707684135" duration="4566000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20256000" />
+    <option name="totallyTimeSpent" value="21019000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="683" y="0" width="683" height="718" extended-state="4" />
@@ -437,10 +435,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/unidade_10/listagem.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="47" column="50" lean-forward="false" selection-start-line="47" selection-start-column="50" selection-end-line="47" selection-end-column="50" />
+        <state relative-caret-position="414">
+          <caret line="62" column="46" lean-forward="true" selection-start-line="62" selection-start-column="46" selection-end-line="62" selection-end-column="46" />
           <folding>
-            <marker date="1543711577905" expanded="true" signature="249:278" ph="SELECT * FRO... transportadoras" />
+            <marker date="1543712341608" expanded="true" signature="249:278" ph="SELECT * FRO... transportadoras" />
           </folding>
         </state>
       </provider>
