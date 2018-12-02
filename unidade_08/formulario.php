@@ -76,7 +76,17 @@
                 }).then(sucesso, falha);
 
                 function sucesso(data){
-                    console.log(data);
+                    $sucesso = $.parseJSON(data)["sucesso"];
+                    $mensagem = $.parseJSON(data)["mensagem"];
+
+                    $('#mensagem').show();
+
+                    if($sucesso){
+                        $('#mensagem p').html($mensagem);
+                    }else{
+                        $('#mensagem p').html($mensagem);
+
+                    }
                 }
                 function falha(){
                     console.log("erro");

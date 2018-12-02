@@ -17,8 +17,8 @@
       <file leaf-file-name="formulario.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/unidade_08/formulario.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="73" column="45" lean-forward="true" selection-start-line="73" selection-start-column="45" selection-end-line="73" selection-end-column="45" />
+            <state relative-caret-position="459">
+              <caret line="86" column="41" lean-forward="false" selection-start-line="86" selection-start-column="41" selection-end-line="86" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -28,9 +28,9 @@
         <entry file="file://$PROJECT_DIR$/unidade_08/inserir_transportadora.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+              <caret line="21" column="72" lean-forward="false" selection-start-line="21" selection-start-column="72" selection-end-line="21" selection-end-column="72" />
               <folding>
-                <marker date="1543708506085" expanded="true" signature="468:495" ph="INSERT INTO transportadoras... " />
+                <marker date="1543709893948" expanded="true" signature="468:495" ph="INSERT INTO transportadoras... " />
               </folding>
             </state>
           </provider>
@@ -147,12 +147,12 @@
       <option name="presentableId" value="Default" />
       <updated>1543674807156</updated>
       <workItem from="1543674808454" duration="16453000" />
-      <workItem from="1543707684135" duration="920000" />
+      <workItem from="1543707684135" duration="2296000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17373000" />
+    <option name="totallyTimeSpent" value="18749000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="683" y="0" width="683" height="718" extended-state="4" />
@@ -390,17 +390,17 @@
     <entry file="file://$PROJECT_DIR$/unidade_08/inserir_transportadora.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="21" column="25" lean-forward="false" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+          <caret line="21" column="72" lean-forward="false" selection-start-line="21" selection-start-column="72" selection-end-line="21" selection-end-column="72" />
           <folding>
-            <marker date="1543708506085" expanded="true" signature="468:495" ph="INSERT INTO transportadoras... " />
+            <marker date="1543709893948" expanded="true" signature="468:495" ph="INSERT INTO transportadoras... " />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/unidade_08/formulario.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="73" column="45" lean-forward="true" selection-start-line="73" selection-start-column="45" selection-end-line="73" selection-end-column="45" />
+        <state relative-caret-position="459">
+          <caret line="86" column="41" lean-forward="false" selection-start-line="86" selection-start-column="41" selection-end-line="86" selection-end-column="41" />
           <folding />
         </state>
       </provider>
