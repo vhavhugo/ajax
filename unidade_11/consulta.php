@@ -12,6 +12,7 @@
                 <form id="pesquisarProdutos">
                     <label for="categorias">Categorias</label>
                     <select id="categorias">
+
                     </select>
                 </form>
             </div>
@@ -20,6 +21,14 @@
         
         <script src="_js/jquery.js"></script>
         <script>
+            function retornarCategorias(data){
+                var categorias = "";
+                $.each(data, function (chave, valor) {
+                    categorias += '<option value="' + valor.categoriaID + '">' + valor.nomecategoria + '</option>';
+                });
+                $('#categorias').html(categorias);
+            }
         </script>
+        <script src="http://localhost/cursos/ajax/unidade_11/retornar_categorias.php?callback=retornarCategorias"></script>
     </body>
 </html>
