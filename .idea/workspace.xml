@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6f5e89eb-998a-458c-a121-2de072d8a0c9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unidade_11/consulta.php" afterPath="$PROJECT_DIR$/unidade_11/consulta.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unidade_11/retornar_categorias.php" afterPath="$PROJECT_DIR$/unidade_11/retornar_categorias.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unidade_11/retornar_produtos.php" afterPath="$PROJECT_DIR$/unidade_11/retornar_produtos.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,8 +16,8 @@
       <file leaf-file-name="consulta.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/unidade_11/consulta.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="50" lean-forward="false" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+            <state relative-caret-position="442">
+              <caret line="41" column="51" lean-forward="true" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -50,6 +48,11 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>retornarCategorias</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -162,12 +165,12 @@
       <option name="presentableId" value="Default" />
       <updated>1543674807156</updated>
       <workItem from="1543674808454" duration="16453000" />
-      <workItem from="1543707684135" duration="5558000" />
+      <workItem from="1543707684135" duration="6877000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22011000" />
+    <option name="totallyTimeSpent" value="23330000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="683" y="0" width="683" height="718" extended-state="4" />
@@ -480,8 +483,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/unidade_11/consulta.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="50" lean-forward="false" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+        <state relative-caret-position="442">
+          <caret line="41" column="51" lean-forward="true" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
           <folding />
         </state>
       </provider>
