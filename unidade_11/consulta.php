@@ -13,7 +13,11 @@
                     <label for="categorias">Categorias</label>
                     <select id="categorias">
                     </select>
-                    <div id="teste"></div>
+
+                    <label for="produtos">Produtos</label>
+                    <select id="produtos">
+                    </select>
+
                 </form>
             </div>
         </main>
@@ -39,12 +43,12 @@
                     async: false
 
                 }).done(function (data) {
-                    var lista = "<ul>";
+                    var produtos = "<ul>";
                     $.each($.parseJSON(data), function (chave, valor) {
-                       lista += "<li>" + valor.nomeproduto + "</li>";
+                       produtos += '<option value="' + valor.produtoID + '">' + valor.nomeproduto + '</option>';
                     });
-                    lista += "</ul>";
-                    $('#teste').html(lista);
+                    produtos += "</ul>";
+                    $('#produtos').html(produtos);
                 })
             });
         </script>
