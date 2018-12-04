@@ -10,6 +10,16 @@
         
         <script src="_js/jquery.js"></script>
         <script>
+            var cep="01001000";
+            $.ajax({
+                type:"GET",
+                url:"http://viacep.com.br/ws/" + cep + "/json",
+                async: false
+            }).done(function (data) {
+                console.log(data);
+            }).fail(function () {
+                console.log("Error");
+            })
         </script>
     </body>
 </html>

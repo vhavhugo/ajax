@@ -42,6 +42,34 @@
         
         <script src="_js/jquery.js"></script>
         <script>
+            $("#cep").blur(function (e) {
+                var cep = $("#cep").val();
+                var url = "http://viacep.com.br/ws/" + cep + "/json/";
+                var validaCep = /^[0-9]{5}-?[0-9]{3}$/;
+
+                if(validaCep.test(cep)) {
+                    $('#mensagem').hide();
+                    pesquisaCep(url);
+                }else{
+                    $('#mensagem').show();
+                    $('#mensagem p').html("Cep Inválido");
+                }
+            });
+
+            function pesquisaCep(endereco){
+                $.ajax({
+                    type: "GET",
+                    url: endereco,
+                    async: false
+                }).done(function (data) {
+                    $("#endereco").val(data.logradouro);
+                    $("#cidade").val(data.localidade);
+                    $("#estado").val(data.uf);
+                    $("#bairro").val(data.bairro);
+                }).fail(function () {
+                    console.log("Erro");
+                })
+            }
         </script>
     </body>
 </html>
